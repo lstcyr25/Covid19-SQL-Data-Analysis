@@ -67,7 +67,7 @@ An interactive dashboard was created in Tableau to visualize:
 * Death count by continent (bar chart)
 * Infection trend over time (line chart)
 
-<img width="1920" height="1020" alt="Screenshot 2026-03-04 160709" src="https://github.com/user-attachments/assets/c1438bd3-2f9d-4e2f-b715-cc24d455df94" />
+<img width="1920" height="910" alt="Covid19Dataset_Dashboard" src="https://github.com/user-attachments/assets/656caf0a-2962-4586-983d-ff4343c75d2a" />
 
 
 ## 🚀 What I Learned
