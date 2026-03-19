@@ -73,7 +73,6 @@ View the interactive dashboard here: https://public.tableau.com/app/profile/lars
 * Death count by continent (bar chart)
 * Infection trend over time (line chart)
 
-<img width="1920" height="1020" alt="CovidHighInfectionRateSQL" src="https://github.com/user-attachments/assets/82d27ff2-8ebd-484b-8a68-4a4aedef28f5" />
 <img width="1920" height="1020" alt="CovidHighDeathCountCountrySQL" src="https://github.com/user-attachments/assets/91fb9a08-2bfa-46c9-8a6a-f40e12bb3927" />
 
 
