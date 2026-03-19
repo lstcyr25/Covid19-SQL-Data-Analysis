@@ -68,6 +68,7 @@ An interactive dashboard was created in Tableau to visualize:
 * Infection trend over time (line chart)
 
 <img width="1920" height="910" alt="Covid19Dataset_Dashboard" src="https://github.com/user-attachments/assets/656caf0a-2962-4586-983d-ff4343c75d2a" />
+<img width="1920" height="1020" alt="CovidHighInfectionRateSQL" src="https://github.com/user-attachments/assets/82d27ff2-8ebd-484b-8a68-4a4aedef28f5" />
 
 
 ## 🚀 What I Learned
