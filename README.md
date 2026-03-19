@@ -54,6 +54,11 @@ An interactive dashboard was created in Tableau to visualize:
 * Percent population infected by country (map visualization)
 * Infection trends over time
 
+## 🔗 Live Dashboard
+View the interactive dashboard here: https://public.tableau.com/app/profile/larson.st.cyr/viz/CovidDashboard_17541579876190/Dashboard1
+<img width="1920" height="910" alt="Covid19Dataset_Dashboard" src="https://github.com/user-attachments/assets/ee636500-e083-4edc-8174-a9e74cdd241f" />
+
+
 ## 📈 Key Insights
 
 * Europe and North America had the highest total death counts
@@ -67,8 +72,9 @@ An interactive dashboard was created in Tableau to visualize:
 * Death count by continent (bar chart)
 * Infection trend over time (line chart)
 
-<img width="1920" height="910" alt="Covid19Dataset_Dashboard" src="https://github.com/user-attachments/assets/656caf0a-2962-4586-983d-ff4343c75d2a" />
 <img width="1920" height="1020" alt="CovidHighInfectionRateSQL" src="https://github.com/user-attachments/assets/82d27ff2-8ebd-484b-8a68-4a4aedef28f5" />
+<img width="1920" height="1020" alt="CovidHighDeathCountCountrySQL" src="https://github.com/user-attachments/assets/91fb9a08-2bfa-46c9-8a6a-f40e12bb3927" />
+
 
 
 ## 🚀 What I Learned
