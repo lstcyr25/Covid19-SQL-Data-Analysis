@@ -56,6 +56,7 @@ An interactive dashboard was created in Tableau to visualize:
 
 ## 🔗 Live Dashboard
 View the interactive dashboard here: https://public.tableau.com/app/profile/larson.st.cyr/viz/CovidDashboard_17541579876190/Dashboard1
+
 <img width="1920" height="910" alt="Covid19Dataset_Dashboard" src="https://github.com/user-attachments/assets/ee636500-e083-4edc-8174-a9e74cdd241f" />
 
 
